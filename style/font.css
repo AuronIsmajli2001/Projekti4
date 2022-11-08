@@ -1,0 +1,85 @@
+
+.icon-home:before {
+    font-family: icon;
+    content: "\e900";
+}
+.icon-image:before {
+    font-family: icon;
+    content: "\e90d";
+}
+.icon-stack:before {
+    font-family: icon;
+    content: "\e92e";
+  }
+  .icon-envelop:before {
+    font-family: icon;
+    content: "\e945";
+  }
+  .icon-bell:before {
+    font-family: icon;
+    content: "\e951";
+  }
+  .icon-tv:before {
+    font-family: icon;
+    content: "\e95b";
+  }
+  .icon-bubble:before {
+    font-family: icon;
+    content: "\e96b";
+  }
+  .icon-cog:before {
+    font-family: icon;
+    content: "\e994";
+  }
+  .icon-stats-bars:before {
+    font-family: icon;
+    content: "\e99c";
+  }
+  .icon-download3:before {
+    font-family: icon;
+    content: "\e9c7";
+  }
+  .icon-attachment:before {
+    font-family: icon;
+    content: "\e9cd";
+  }
+  .icon-star-full:before {
+    font-family: icon;
+    content: "\e9d9";
+  }
+  .icon-heart:before {
+    font-family: icon;
+    content: "\e9da";
+  }
+  .icon-happy:before {
+    font-family: icon;
+    content: "\e9df";
+  }
+  .icon-exit:before {
+    font-family: icon;
+    content: "\ea14";
+  }
+  .icon-play3:before {
+    font-family: icon;
+    content: "\ea1c";
+  }
+  .icon-share2:before {
+    font-family: icon;
+    content: "\ea82";
+  }
+  .icon-instagram:before {
+    font-family: icon;
+    content: "\ea92";
+  }
+  .icon-mic:before {
+    font-family: icon;
+    content: "\e91e";
+  }
+  .icon-search:before {
+    font-family: icon;
+    content: "\e986";
+  }
+  .icon-stack:before {
+    font-family: icon;
+    content: "\e92e";
+  }
